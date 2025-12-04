@@ -1,0 +1,5 @@
+{
+  "name": "RetroDeck 90",
+  "description": "A fully functional, interactive 3D-style 90s cassette player simulator. Create custom mixtapes with MP3 URLs, watch the tape spin, and enjoy the tactile nostalgia.",
+  "requestFramePermissions": []
+}
